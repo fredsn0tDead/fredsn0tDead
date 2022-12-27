@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fredsn0tDead
-- 👀 I’m interested in my last year in Software Engineering at Ontario tech University
+- 👀 I’m  in my last year in Software Engineering at Ontario tech University
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on both front-end and back-end development projects
 - 📫 How to reach me frederick345678@gmail.com
