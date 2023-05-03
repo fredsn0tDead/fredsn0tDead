@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fredsn0tDead
-- 👀 I’m  in my last year in Software Engineering at Ontario tech University
-- 🌱 I’m currently learning React in an effort to become a Full-Stack Developer
+- 👀 I’m in my last year in Software Engineering at Ontario tech University 
+- 🌱 I’m currently learning C# in combination with Angular in an effort to become a Full-Stack Developer
 - 💞️ I’m looking to collaborate on both front-end and back-end development projects
 - 📫 How to reach me frederick345678@gmail.com
 
